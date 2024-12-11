@@ -1,10 +1,20 @@
-# Hex Template
+# Hex Sticker Templates
 
-Templates for hexagonal stickers (illustrator, ppt, etc.).
+Create perfectly aligned hexagonal stickers for your projects! These templates ensure consistent sizing and spacing, allowing your stickers to fit together seamlessly.
 
-The standard aspect ratio of hex-stickers is **NOT 1**!!!  It 5.08cm x 4.39cm. Starting from a template is essential for ensuring your stickers can be placed adjacent to one another without gaps.
+---
 
-Quick links:
+## Why Use a Template?
 
-- [**Powerpoint**](hextemplate.pptx)
-- [**Illustrator**](hextemplate.ai)
+**Important:** The standard aspect ratio of hex-stickers is **not 1:1**!  
+Instead, the correct dimensions are **5.08 cm x 4.39 cm**.  
+Starting from a proper template guarantees that your stickers will align neatly side-by-side without any awkward gaps.
+
+---
+
+## Templates Available
+
+- **[PowerPoint Template](hextemplate.pptx)** – Ideal for quick edits and presentations.
+- **[Illustrator Template](hextemplate.ai)** – Perfect for precise vector design and professional print setups.
+
+---
